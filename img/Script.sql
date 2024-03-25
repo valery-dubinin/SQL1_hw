@@ -15,6 +15,6 @@ where
 order by rental_date desc
 limit 5;
 
-select replace(lower(first_name), 'll', 'pp'), replace(lower(last_name), 'll', 'pp'), email 
+select replace(lower(first_name), 'll', 'pp'), lower(last_name), email 
 from customer c 
 where first_name = 'KELLY' or first_name = 'WILLIE';
