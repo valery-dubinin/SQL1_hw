@@ -37,5 +37,5 @@ https://github.com/valery-dubinin/SQL1_hw/blob/main/img/Script.sql
 
 ### Решение 4
 
-![img](https://github.com/valery-dubinin/SQL1_hw/blob/main/img/4.png)
+![img](https://github.com/valery-dubinin/SQL1_hw/blob/main/img/5.png)
 
