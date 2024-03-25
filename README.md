@@ -31,6 +31,10 @@ https://github.com/valery-dubinin/SQL1_hw/blob/main/img/Script.sql
 
 Одним запросом получите активных покупателей, имена которых Kelly или Willie. 
 
+Сформируйте вывод в результат таким образом:
+- все буквы в фамилии и имени из верхнего регистра переведите в нижний регистр,
+- замените буквы 'll' в именах на 'pp'.
+
 ### Решение 4
 
 ![img](https://github.com/valery-dubinin/SQL1_hw/blob/main/img/4.png)
